@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# DEMO ONLY. Change after approval before publishing.
